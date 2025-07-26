@@ -1,0 +1,14 @@
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.exe
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.deps.json
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.runtimeconfig.json
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.pdb
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfo.cs
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\refint\ExemploFundamentos.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.pdb
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
